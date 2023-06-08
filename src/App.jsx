@@ -1,5 +1,12 @@
+import SquareColors from "./components/squareColors/SquareColors";
+
 const App = () => {
-	return <h1>Núcleo de la aplicación</h1>;
+	
+	return(
+
+		<SquareColors/>
+		
+	);
 };
 
 export default App;
